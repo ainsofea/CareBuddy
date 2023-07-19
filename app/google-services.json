@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "270590570456",
+    "firebase_url": "https://carebuddy-9f107-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carebuddy-9f107",
+    "storage_bucket": "carebuddy-9f107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270590570456:android:6c3f2bacc605a0c7810cad",
+        "android_client_info": {
+          "package_name": "com.example.carebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270590570456-pb1fj4ngvngam11oftcl3riuc4emu5fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rCn2hYG5SuUSmYaBNop1E62Bh3hJiq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270590570456-pb1fj4ngvngam11oftcl3riuc4emu5fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270590570456:android:05dad92688445b16810cad",
+        "android_client_info": {
+          "package_name": "com.example.medicalmonitoringapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270590570456-pb1fj4ngvngam11oftcl3riuc4emu5fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rCn2hYG5SuUSmYaBNop1E62Bh3hJiq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270590570456-pb1fj4ngvngam11oftcl3riuc4emu5fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

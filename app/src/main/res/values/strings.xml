@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CareBuddy</string>
+    <string name="title_activity_map">Map</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="logout">Logout</string>
+    <string name="map">Map</string>
+    <string name="about_us">About Us</string>
+    <string name="aiman_amsyar">Aiman Amsyar</string>
+    <string name="back">Back</string>
+    <string name="youtube">Youtube</string>
+    <!-- href tag is used to add link-->
+    <!-- link for home text view-->
+    <string name="hyperlink"><a href="https://www.youtube.com/">YouTube</a></string>
+    <string name="update_location">Update Location</string>
+
+</resources>
